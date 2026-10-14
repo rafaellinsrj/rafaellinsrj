@@ -26,7 +26,9 @@ Peças tiradas dos meus produtos, sem dados nem regras de negócio, com testes a
 |---|---|
 | [llm-router](https://github.com/rafaellinsrj/llm-router) | Roteador de LLMs: orçamento reservado antes de pagar, verificador de outro provedor, auditoria e seletor de modelo por qualidade e custo |
 | [saas-multitenant-kit](https://github.com/rafaellinsrj/saas-multitenant-kit) | Base de SaaS multi-tenant: RLS no PostgreSQL, crédito pré-pago com ledger append-only, webhooks idempotentes, cofre de segredos |
+| [node-provider-adapters](https://github.com/rafaellinsrj/node-provider-adapters) | Integrações com provedores de pagamento e e-mail tratadas como incertas: idempotência, reconciliação, webhooks e CSP com nonce (TypeScript) |
 | [reels-em-codigo](https://github.com/rafaellinsrj/reels-em-codigo) | Reels animados feitos em código com React e Remotion |
+| [carrosseis-em-codigo](https://github.com/rafaellinsrj/carrosseis-em-codigo) | Carrosséis gerados em código, com checagem automática de texto vazado e sobreposição |
 
 ### Tecnologias
 
