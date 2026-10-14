@@ -16,7 +16,17 @@ Fundador e CTO da [Lins Capital Group / Lins Partners](https://linspartners.com)
 | [Vero Markets](https://rafaellinsrj.github.io/projetos/vero-markets/) | Mercados de previsão com livro de ofertas, Pix e USDC na Polygon | Laravel, Go, MySQL, Redis, Node.js |
 | [Bioo](https://rafaellinsrj.github.io/projetos/bioo/) | Plataforma para criadores: página, loja, agenda e automações | Node.js, PostgreSQL 18, Next.js 16 |
 
-Os repositórios desses produtos são privados. Os detalhes de arquitetura e as decisões técnicas estão no portfólio.
+Os repositórios desses produtos são privados. Os detalhes de arquitetura e as decisões técnicas estão no portfólio. **Código dos produtos disponível sob pedido para processos seletivos.**
+
+### Código aberto
+
+Peças tiradas dos meus produtos, sem dados nem regras de negócio, com testes automáticos e as decisões explicadas.
+
+| Repositório | O que mostra |
+|---|---|
+| [llm-router](https://github.com/rafaellinsrj/llm-router) | Roteador de LLMs: orçamento reservado antes de pagar, verificador de outro provedor, auditoria e seletor de modelo por qualidade e custo |
+| [saas-multitenant-kit](https://github.com/rafaellinsrj/saas-multitenant-kit) | Base de SaaS multi-tenant: RLS no PostgreSQL, crédito pré-pago com ledger append-only, webhooks idempotentes, cofre de segredos |
+| [reels-em-codigo](https://github.com/rafaellinsrj/reels-em-codigo) | Reels animados feitos em código com React e Remotion |
 
 ### Tecnologias
 
