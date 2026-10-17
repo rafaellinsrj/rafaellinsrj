@@ -2,7 +2,7 @@
 
 Líder técnico que arquiteta, desenvolve e coloca sistemas em produção. Desde 2014 à frente da tecnologia como CTO e sócio. Hoje construo plataformas com IA em produção, pagamentos e integrações.
 
-Fundador e CTO da [Lins Capital Group / Lins Partners](https://linspartners.com) · CTO da [Certame](https://certame.app)
+Fundador e CTO da [Lins Capital Group / Lins Partners](https://linspartners.com) · Fundador e CEO da [Hyre](https://hyre.global)
 
 **Portfólio com os estudos de caso:** [rafaellinsrj.github.io](https://rafaellinsrj.github.io) · **LinkedIn:** [linkedin.com/in/rlins](https://linkedin.com/in/rlins)
 
